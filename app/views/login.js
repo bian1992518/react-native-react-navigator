@@ -177,7 +177,7 @@ const styles = StyleSheet.create({
         height : 40,
         borderColor : "#ccc",
         borderWidth : 1,
-        width : 300,
+        width : "80%",
         backgroundColor : "#fff",
         borderRadius : 3,
         paddingLeft : 11,
@@ -189,15 +189,15 @@ const styles = StyleSheet.create({
         justifyContent : "space-between",
         alignItems : "center",
         height : 40,
-        width : 300,
+        width : "80%",
         marginTop : 10,
     },
     verify : {
-        width : 150,
+        width : "50%",
     },
     btnVerify: {
-        width: 130,
-        marginLeft : 20,
+        width: "43%",
+        marginLeft : "7%",
         alignItems : "center",
         justifyContent : "center",
         height : 40,
@@ -208,7 +208,7 @@ const styles = StyleSheet.create({
         color : "#fff"
     },
     btnLogin : {
-        width : 300,
+        width : "80%",
         marginLeft : 30,
         marginTop : 10,
         backgroundColor : "#ccc",

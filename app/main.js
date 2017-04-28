@@ -43,7 +43,8 @@ const CMY = StackNavigator({
         screen : Index,
         navigationOptions : {
             header : {
-                visible : false
+                //visible : false
+                title : "首页"
             }
         }
     },
